@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am a Full stack web developer. (MERN Stack)<br>I am currently working on a project about creating and managing social events.<br>I am using Nest js for the back-end api's and React js for the front-end. <br>I have been developing software for over four year now and <br>I would love to contribute to an open project.  Preferable anything Javascript at least as of this time
+I am a Full stack web developer. (MERN Stack).<br> I also build enterprise grade backend using Spring boot(Java) and C# ASP.NET <br>I am currently working on a project about creating and managing social events.<br>I am using Nest js for the back-end api's and React js for the front-end. <br>I have been developing software for over four year now and <br>I would love to contribute to an open project.  Preferable anything Javascript / Typescript, C# ASP.NET, REACT JS / REACT NATIVE and JAVA at least as of this time
 
 
 # 💻 Tech Stack:
