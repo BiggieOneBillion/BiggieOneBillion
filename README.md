@@ -1,7 +1,14 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am a Full stack web developer. (MERN Stack).<br> I also build enterprise grade backend using Spring boot(Java) and C# ASP.NET <br>I am currently working on a project about creating and managing social events.<br>I am using Nest js for the back-end api's and React js for the front-end. <br>I have been developing software for over four year now and <br>I would love to contribute to an open project.  Preferable anything Javascript / Typescript, C# ASP.NET, REACT JS / REACT NATIVE and JAVA at least as of this time
+I am a Full-Stack Software Developer with 4+ years of experience building and maintaining production-ready web applications for distributed teams.<br>
+
+I work comfortably across the stack — designing scalable backend systems with Node.js (JavaScript/TypeScript), NestJS, and C# ASP.NET, and building modern, responsive frontends using React.js and React Native. I enjoy translating product requirements into clean, maintainable code that performs well in real-world environments.<br><br>
+
+I am experienced working remotely, collaborating asynchronously, and writing code that’s easy for other developers to understand, review, and extend. I care deeply about code quality, architecture, performance, and best practices, and I’m always looking to improve both the technical and human side of software development.<br><br>
+
+I am open to remote full-stack opportunities and open-source collaboration, particularly in JavaScript / TypeScript, React / React Native, NestJS, C# ASP.NET, and Java-based projects.<br><br>
+
 
 
 # 💻 Tech Stack:
