@@ -3,9 +3,9 @@
 # 💫 About Me:
 I am a Full-Stack Software Developer with 4+ years of experience building and maintaining production-ready web applications for distributed teams.<br>
 
-I work comfortably across the stack — designing scalable backend systems with Node.js (JavaScript/TypeScript), NestJS, and C# ASP.NET, and building modern, responsive frontends using React.js and React Native. I enjoy translating product requirements into clean, maintainable code that performs well in real-world environments.<br><br>
+I work comfortably across the stack, designing scalable backend systems with Node.js (JavaScript/TypeScript), NestJS, and C# ASP.NET, and building modern, responsive frontends using React.js and React Native. I enjoy translating product requirements into clean, maintainable code that performs well in real-world environments.<br><br>
 
-I am experienced working remotely, collaborating asynchronously, and writing code that’s easy for other developers to understand, review, and extend. I care deeply about code quality, architecture, performance, and best practices, and I’m always looking to improve both the technical and human side of software development.<br><br>
+I am experienced working remotely, collaborating asynchronously, and writing code that is easy for other developers to understand, review, and extend. I care deeply about code quality, architecture, performance, and best practices, and I am always looking to improve both the technical and human side of software development.<br><br>
 
 I am open to remote full-stack opportunities and open-source collaboration, particularly in JavaScript / TypeScript, React / React Native, NestJS, C# ASP.NET, and Java-based projects.<br><br>
 
